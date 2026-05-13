@@ -5,7 +5,7 @@ to streamline analyses.
 # Packages
 
 ## ForestBiomass
-**ForestBiomass** is an R package for estimating tree biomass and carbon stocks using peer-reviewed allometric equations from Ung et al. (2008) and Lambert et al. (2005), covering tree species across British
+**[ForestBiomass] (https://github.com/BosunForestEcology/ForestBiomass.git)** is an R package for estimating tree biomass and carbon stocks using peer-reviewed allometric equations from Ung et al. (2008) and Lambert et al. (2005), covering tree species across British
   Columbia and Eastern Canada. It supports hierarchical calculations of aboveground tree components — stem wood, branches, foliage, and bark — with modifiers for decay class and crown condition. Species are
   identified using National Forest Inventory (NFI) codes, with output in either biomass (kg) or carbon (Mg/ha).
 
